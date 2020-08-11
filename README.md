@@ -5,6 +5,6 @@ I'm a frontend developer ✌🏾 specializing in designing and building cool web
 
 Without computer with me, I'm probably reading 📙, exploring places 🌍, watching movies 🎞️ or listerning musics 🎧.
 
-## Me in the web:
+## Me in the websites:
 - Cooking some code in <a href="https://github.com/makindajack">Github</a> 👨🏾‍🍳
 - Creating cool designs at <a href="https://www.behance.net/makindajack">Behance</a> 👨🏾‍🎨
