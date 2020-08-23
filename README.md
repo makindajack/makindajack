@@ -1,9 +1,12 @@
 # Hi, I'm Jackson 👋🏾
 
-<img src="https://github.com/makindajack/makindajack/blob/v1.0-0/makinda-git.png" alt="banner that says Makinda Jackson - artist, designer and code lover">
-I'm a frontend developer ✌🏾 specializing in designing and building cool websites. Some technologies I'm working with 👌🏾 on Bootstrap, Bulma and Gatsby, recently learning Laravel ( The PHP Framework for Web Artisans ).
+<img src="https://i.imgur.com/H4LkPIJ.png" title="makinda jackson" alt="banner that says Makinda Jackson - artist, designer and code lover">
 
-Without computer with me, I'm probably reading 📙, exploring places 🌍, watching movies 🎞️ or listerning musics 🎧.
+## Me 🧠
+I'm a frontend developer specializing in designing and building 👌🏾 cool websites. Some technologies I'm working with on Bootstrap, Bulma and Gatsby, recently learning Laravel ( The PHP Framework for Web Artisans ).
+
+## Off mode 📵
+Without computer with me, I'm probably reading, exploring places, watching movies or listerning musics.
 
 ## Me in the websites:
 - Cooking some code in <a href="https://github.com/makindajack">Github</a> 👨🏾‍🍳
