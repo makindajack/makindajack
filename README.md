@@ -4,6 +4,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makindajack&layout=compact&hide_border=true" align="right">
 
+<br>
+
 - 🌱 I’m currently learning [Laravel](https://laravel.com/) and [Vue.js](https://vuejs.org/)
 - 📫 How to reach me: [telegram](https://t.me/makindajack)
 - 👦🏽 Pronouns: He/Him
