@@ -1,13 +1,10 @@
-# Hi, I'm Jackson 👋🏾
+# Hi, I'm [Jackson](https://twitter.com/makindajack) 👋🏾
 
 <img src="https://i.imgur.com/H4LkPIJ.png" title="makinda jackson" alt="banner that says Makinda Jackson - artist, designer and code lover">
 
-## Me 🧠
-I'm a frontend developer, creating design and building 👌🏾 cool websites. Some technologies I'm working with on Bootstrap, Bulma, Gsap and Gatsby, recently learning Laravel ( The PHP Framework For Web Artisans ).
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makindajack&langs_count=10&layout=compact" align="right">
 
-## Off Mode 📵
-Without a computer with me, I'm probably watching movies, exploring places, or listening to music.
-
-## Find Me 🌍
-- Cooking some code in <a href="https://github.com/makindajack">Github</a>
-- Creating cool designs at <a href="https://www.behance.net/makindajack">Behance</a>
+- 🌱 I’m currently learning [Laravel](https://laravel.com/) and [Vue.js](https://vuejs.org/)
+- 📫 How to reach me: [telegram](https://t.me/makindajack)
+- 👦🏽 Pronouns: He/Him
+- ⚡ Fun fact: I explore places most
