@@ -6,7 +6,7 @@
 
 <br>
 
-- 🌱 I’m currently learning [Laravel](https://laravel.com/) and [Vue.js](https://vuejs.org/)
+- 🌱 I’m currently learning [Laravel](https://laravel.com/), [Vue.js](https://vuejs.org/) and [Flutter](https://flutter.dev/)
 - 📫 How to reach me: [telegram](https://t.me/makindajack)
 - 👦🏽 Pronouns: He/Him
 - ⚡ Fun fact: I explore places most
