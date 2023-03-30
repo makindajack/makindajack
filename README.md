@@ -15,6 +15,11 @@
 - 👦🏽 Pronouns: He/Him
 - ⚡ Fun fact: I explore places the most
 
+### 📊 Dev stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h4 align="center">
   <br>
   <a href="https://github.com/makindajack?tab=repositories" title="Show Repositories">Show More...</a>
