@@ -15,7 +15,7 @@
 - 👦🏽 Pronouns: He/Him
 - ⚡ Fun fact: I explore places the most
 
-### 📊 Dev stats
+### 👨🏽‍💻 Code stats
 
 <!--START_SECTION:waka-->
 
