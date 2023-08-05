@@ -10,7 +10,7 @@
 
 <br>
 
-- 🌱 I’m currently learning [Laravel](https://laravel.com/), [react.js](https://reactjs.org/) and [Flutter](https://flutter.dev/)
+- 🌱 I’m currently working on [react.js](https://reactjs.org/) with [NextJS](https://nextjs.org/) and [Laravel](https://laravel.com/)
 - 📫 How to reach me: [telegram](https://t.me/makindajack)
 - 👦🏽 Pronouns: He/Him
 - ⚡ Fun fact: I explore places the most
