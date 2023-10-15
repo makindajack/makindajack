@@ -33,6 +33,8 @@ JSON             24 hrs 16 mins  >>-----------------------   06.10 %
 
 <!--END_SECTION:waka-->
 
+[![An image of @makindajack's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/makindajack)](https://holopin.io/@makindajack)
+
 <h4 align="center">
   <br>
   <a href="https://github.com/makindajack?tab=repositories" title="Show Repositories">Show More...</a>
