@@ -1,6 +1,7 @@
 # Hi👋🏾, I'm
 
 <h5 align="right" style="display: 'flex'; align-items: center;">
+  <a href="https://wakatime.com/@f0e8e56d-7a72-4c7a-bda6-99fd0af8a18d"><img src="https://wakatime.com/badge/user/f0e8e56d-7a72-4c7a-bda6-99fd0af8a18d.svg" alt="Total time coded since Mar 30 2023" /></a>
   <code><img src="https://visitor-badge.laobi.icu/badge?page_id=makindajack"></code>
 </h5>
 
