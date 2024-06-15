@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2023 - To: 12 June 2024
+From: 29 March 2023 - To: 13 June 2024
 
-Total Time: 659 hrs 12 mins
+Total Time: 661 hrs 52 mins
 
-Other            236 hrs 49 mins >>>>>>>>>----------------   35.93 %
-TypeScript       108 hrs 18 mins >>>>---------------------   16.43 %
-HTML             96 hrs 58 mins  >>>>---------------------   14.71 %
-JavaScript       53 hrs 27 mins  >>-----------------------   08.11 %
-Blade Template   46 hrs 40 mins  >>-----------------------   07.08 %
+Other            237 hrs 53 mins >>>>>>>>>----------------   35.94 %
+TypeScript       108 hrs 18 mins >>>>---------------------   16.36 %
+HTML             96 hrs 58 mins  >>>>---------------------   14.65 %
+JavaScript       53 hrs 27 mins  >>-----------------------   08.08 %
+Blade Template   47 hrs 54 mins  >>-----------------------   07.24 %
 ```
 
 <!--END_SECTION:waka-->
