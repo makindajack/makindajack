@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2023 - To: 31 July 2024
+From: 29 March 2023 - To: 01 August 2024
 
-Total Time: 819 hrs 9 mins
+Total Time: 823 hrs 54 mins
 
-Other            273 hrs 58 mins >>>>>>>>-----------------   33.45 %
-TypeScript       113 hrs 36 mins >>>----------------------   13.87 %
-HTML             111 hrs 48 mins >>>----------------------   13.65 %
-Figma Design     99 hrs 11 mins  >>>----------------------   12.11 %
-JavaScript       54 hrs 29 mins  >>-----------------------   06.65 %
+Other            275 hrs         >>>>>>>>-----------------   33.38 %
+TypeScript       114 hrs 20 mins >>>----------------------   13.88 %
+HTML             111 hrs 48 mins >>>----------------------   13.57 %
+Figma Design     102 hrs 8 mins  >>>----------------------   12.40 %
+JavaScript       54 hrs 29 mins  >>-----------------------   06.61 %
 ```
 
 <!--END_SECTION:waka-->
