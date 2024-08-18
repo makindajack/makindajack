@@ -16,6 +16,10 @@
 - 👦🏽 Pronouns: He/Him
 - ⚡ Fun fact: I explore places the most
 
+[![autocomplete](https://codeium.com/badges/user/dismally-equitable-bear-62511/autocomplete)](https://codeium.com/profile/dismally-equitable-bear-62511)
+
+[![streak](https://codeium.com/badges/v2/user/dismally-equitable-bear-62511/streak)](https://codeium.com/profile/dismally-equitable-bear-62511)
+
 ### 👨🏽‍💻 Code stats
 
 <!--START_SECTION:waka-->
