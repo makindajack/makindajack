@@ -23,15 +23,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2023 - To: 28 June 2025
+From: 29 March 2023 - To: 29 June 2025
 
-Total Time: 2,289 hrs 10 mins
+Total Time: 2,295 hrs 14 mins
 
-Other                 1,391 hrs 30 mins>>>>>>>>>>>>>>>----------   60.79 %
-Image (svg)           417 hrs 29 mins >>>>>--------------------   18.24 %
-TypeScript            124 hrs 54 mins >------------------------   05.46 %
-HTML                  122 hrs 46 mins >------------------------   05.36 %
-JavaScript            55 hrs 44 mins  >------------------------   02.44 %
+Other                 1,393 hrs 37 mins>>>>>>>>>>>>>>>----------   60.72 %
+Image (svg)           421 hrs 25 mins >>>>>--------------------   18.36 %
+TypeScript            124 hrs 54 mins >------------------------   05.44 %
+HTML                  122 hrs 46 mins >------------------------   05.35 %
+JavaScript            55 hrs 44 mins  >------------------------   02.43 %
 ```
 
 <!--END_SECTION:waka-->
