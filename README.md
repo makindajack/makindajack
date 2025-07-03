@@ -16,8 +16,6 @@
 - 👦🏽 Pronouns: He/Him
 - ⚡ Fun fact: I explore places the most
 
-[![autocomplete](https://codeium.com/badges/user/makindajack/autocomplete)](https://codeium.com/profile/makindajack)
-
 ### 👨🏽‍💻 Code stats
 
 <!--START_SECTION:waka-->
