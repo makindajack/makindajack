@@ -21,9 +21,9 @@
 
 <br>
 
-<table>
-<tr>
-<td width="50%">
+<table style="border: none;" border="0" cellspacing="0" cellpadding="0">
+<tr style="border: none;">
+<td width="50%" style="border: none;">
 
 ## 🚀 About Me
 
@@ -48,20 +48,20 @@ interest: Traveling
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
+<br>
+
+<a href="https://open.spotify.com/playlist/4znXOcs1lPziyqfsEcKKJe?si=YOUR_SHARING_ID">
+  <img src="https://img.shields.io/badge/Spotify-Vibe_Coding_Mix-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
+</a>
+
 </td>
-<td width="50%">
+<td width="50%" style="border: none;">
 
 <div align="center">
 
 <a href="https://app.daily.dev/makindajack">
   <img src="https://api.daily.dev/devcards/v2/UhOhGCBNgG2Cpir96wVAx.png?type=default&r=1ts" width="356" alt="Chalii wa UX/UI's Dev Card"/>
 </a>
-
-<br><br>
-
-### 🎵 Vibe Coding Playlist
-
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4znXOcs1lPziyqfsEcKKJe?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 </div>
 
