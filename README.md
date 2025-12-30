@@ -78,13 +78,13 @@ interest: Traveling
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2023 - To: 27 December 2025
+From: 29 March 2023 - To: 28 December 2025
 
-Total Time: 3,693 hrs 4 mins
+Total Time: 3,701 hrs 17 mins
 
-Other                 2,259 hrs 50 mins>>>>>>>>>>>>>>>----------   61.19 %
-Image (svg)           721 hrs 29 mins >>>>>--------------------   19.54 %
-TypeScript            302 hrs 14 mins >>-----------------------   08.18 %
+Other                 2,265 hrs 29 mins>>>>>>>>>>>>>>>----------   61.21 %
+Image (svg)           724 hrs 1 min   >>>>>--------------------   19.56 %
+TypeScript            302 hrs 14 mins >>-----------------------   08.17 %
 HTML                  125 hrs 40 mins >------------------------   03.40 %
 JavaScript            61 hrs 24 mins  -------------------------   01.66 %
 ```
