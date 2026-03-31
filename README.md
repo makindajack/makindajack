@@ -78,14 +78,14 @@ interest: Traveling
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2023 - To: 28 March 2026
+From: 29 March 2023 - To: 29 March 2026
 
-Total Time: 4,664 hrs 35 mins
+Total Time: 4,675 hrs 48 mins
 
-Other                      2,936 hrs 46 mins     >>>>>>>>>>>>>>>>---------   62.96 %
-Image (svg)                876 hrs 58 mins       >>>>>--------------------   18.80 %
-TypeScript                 347 hrs 48 mins       >>-----------------------   07.46 %
-HTML                       126 hrs 11 mins       >------------------------   02.71 %
+Other                      2,944 hrs 57 mins     >>>>>>>>>>>>>>>>---------   62.98 %
+Image (svg)                879 hrs 26 mins       >>>>>--------------------   18.81 %
+TypeScript                 348 hrs 13 mins       >>-----------------------   07.45 %
+HTML                       126 hrs 11 mins       >------------------------   02.70 %
 Figma Design               73 hrs 25 mins        -------------------------   01.57 %
 ```
 
