@@ -78,7 +78,7 @@ interest: Traveling
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2023 - To: 15 August 2026
+From: 29 March 2023 - To: 17 August 2026
 
 Total Time: 5,649 hrs 21 mins
 
